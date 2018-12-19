@@ -9,12 +9,12 @@ Checkout this repo and run
 
 ```
 > git clone https://github.com/thuat410/youtubeDemo.git
-> cd ReduxSimpleStarter
+> cd youtubeDemo
 > npm install
 > npm start
 ```
 
-#### Not Familiar with Git?
+#### Not Know about Git?
 Download zip file and run
 
 ```
